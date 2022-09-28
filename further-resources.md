@@ -44,7 +44,7 @@ the following links will be useful:
 
 ---
 
-[« back to overview][index]
+[« Zurück zur Übersicht][index]
 
 [index]: {{ '#articles' | absolute_url }}
 

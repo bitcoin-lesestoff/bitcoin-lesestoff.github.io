@@ -35,7 +35,7 @@ description: Curated Bitcoin videos.
 
 ---
 
-[« back to overview][index]
+[« Zurück zur Übersicht][index]
 
 [index]: {{ '#books' | absolute_url }}
 

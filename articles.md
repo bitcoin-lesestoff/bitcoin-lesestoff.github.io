@@ -42,7 +42,7 @@ Es folgt eine Auswahl von besonders lesenswerten Artikeln.
 
 ---
 
-[« back to overview][index]
+[« Zurück zur Übersicht][index]
 
 [index]: {{ '#articles' | absolute_url }}
 

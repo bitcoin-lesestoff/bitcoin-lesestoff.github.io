@@ -266,7 +266,7 @@ and [JBP's list of great books](https://www.jordanbpeterson.com/great-books/).
 
 ---
 
-[« back to overview][index]
+[« Zurück zur Übersicht][index]
 
 [index]: {{ '#books' | absolute_url }}
 

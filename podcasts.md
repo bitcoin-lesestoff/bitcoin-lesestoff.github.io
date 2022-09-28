@@ -86,7 +86,7 @@ The following podcasts are not active anymore.
 
 ---
 
-[« back to overview][index]
+[« Zurück zur Übersicht][index]
 
 [index]: {{ '#podcasts' | absolute_url }}
 
