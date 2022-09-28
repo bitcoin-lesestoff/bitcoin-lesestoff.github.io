@@ -1,13 +1,13 @@
 ---
 layout: resources
-title: Bitcoin Resources
+title: Deutschsprachige Bitcoin Ressourcen
 image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Books, articles, podcasts, and other curated Bitcoin resources.
 redirect_from: resources
 ---
 
-**TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
-Case for Bitcoin][bullish-case-book].
+**Kurz und Knapp:** Lese zumindest den [Den Bitcoin Standard][bitcoin-standard]
+und [Das Bullishe Argument für Bitcoin][bullish-case-book].
 
 ---
 
