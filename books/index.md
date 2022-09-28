@@ -1,26 +1,25 @@
 ---
 layout: resources
-title: Bitcoin Books
+title: Bitcoin Bücher
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Curated Bitcoin books.
+description: Eine Auswahl von Büchern zum und Rund um das Thema Bitcoin.
 ---
 
-The following is an incomplete list of Bitcoin books worth reading. Some of the
-books listed below were discussed at the [Bitcoiner Book
-Club](https://www.youtube.com/playlist?list=PL8GxRkxnvMl3_O3DYNQJFnVBvvt8A9qqW)
-organized by John Vallis.
+Die Bücher welche auf dieser Seite gelistet sind gelten als lesenswert und
+besonders hilfreich um Bitcoin zu verstehen.
 
-Jump to the [table of contents](#toc) to get an overview of the various sections.
+Wechseln Sie zum [Inhaltsverzeichnis](#toc), um einen Überblick über die
+verschiedenen Abschnitte zu erhalten.
 
 ---
 
 <center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+  <p><small><a href="#toc">↓ Inhaltsverzeichnis ↓</a></small></p>
 </center>
 
 ---
 
-## General Bitcoin Books
+## Allgemeine Bitcoin Bücher
 
 Books about Bitcoin which can be read by anyone, no special background knowledge
 or education required. As mentioned above, I consider [The Bitcoin
