@@ -1,6 +1,6 @@
-# Bitcoin Resources
+# Bitcoin Ressourcen (DE)
 
-A curated collection of articles, books, podcasts, podcast episodes, and other resources which offer a more complete understanding of Bitcoin. Available for everyone at [bitcoin-resources.com](https://bitcoin-resources.com).
+Eine ausgewählte Selektion von deutschsprachigen Artikeln, Büchern, Podcasts, und mehr!
 
 ### Contribute
 
