@@ -19,7 +19,7 @@ series](#noteworthy-podcast-series).
 ---
 
 <center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+  <p><small><a href="#toc">↓ Inhaltsverzeichnis ↓</a></small></p>
 </center>
 
 ---

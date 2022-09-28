@@ -11,7 +11,7 @@ helps to break up the long (and growing) list.
 ---
 
 <center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+  <p><small><a href="#toc">↓ Inhaltsverzeichnis ↓</a></small></p>
 </center>
 
 {% include tags.html %}
