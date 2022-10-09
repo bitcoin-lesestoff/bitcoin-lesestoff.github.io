@@ -4,7 +4,7 @@ code: DGKM
 name: Dein Geld kann mehr
 hosts: Marc Steiner
 link: https://marcsteiner-consulting.ch/podcast
-tier: 1
+tier: 2
 ios: https://podcasts.apple.com/ch/podcast/bitcoin-nutzen-und-profitieren/id1557446638?itsct=podcast_box&itscg=30200
 android: ['']
 spotify: https://open.spotify.com/show/2TwjcXYIyokb9FRXRb6kPP

@@ -4,7 +4,7 @@ code: SMBP
 name: Sound Money Bitcoin Podcast
 hosts: Loddi
 link: https://www.sound-money.de/podcast
-tier: 1
+tier: 2
 ios: https://podcasts.apple.com/us/podcast/sound-money-bitcoin-podcast/id1582761819
 android: ['https://www.subscribeonandroid.com/anchor.fm/s/68a48810/podcast/rss']
 spotify: https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9

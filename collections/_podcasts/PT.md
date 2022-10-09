@@ -4,7 +4,7 @@ code: PT
 name: Plebs Taverne
 hosts: Cercatrova, Kid
 link: https://anchor.fm/plebs-taverne
-tier: 1
+tier: 2
 ios: https://podcasts.apple.com/us/podcast/plebs-taverne/id1591830939
 android: ['https://www.subscribeonandroid.com/anchor.fm/s/6b8bc084/podcast/rss']
 spotify: https://open.spotify.com/show/2RzrBJuUSQhLZQAveJZxwT

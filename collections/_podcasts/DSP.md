@@ -4,7 +4,7 @@ code: DSP
 name: Dezentralschweiz Podcast
 hosts: Nicolas
 link: https://rss.com/podcasts/dezentralschweiz/
-tier: 1
+tier: 2
 ios: https://podcasts.apple.com/ch/podcast/dezentralschweiz-podcast/id1602432401
 android: ['https://www.subscribeonandroid.com/media.rss.com/dezentralschweiz/feed.xml']
 spotify: https://open.spotify.com/show/52DQmVoE615hTum0EvBLvX
