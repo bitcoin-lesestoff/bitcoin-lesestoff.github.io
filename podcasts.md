@@ -45,5 +45,3 @@ wie z.B. Cryptografie, Energie, Mining, etc.
 [« Zurück zur Übersicht][index]
 
 [index]: {{ '#podcasts' | absolute_url }}
-
-{% include bibliography.md %}

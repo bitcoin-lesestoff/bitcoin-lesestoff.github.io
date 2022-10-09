@@ -71,6 +71,4 @@ and [JBP's list of great books](https://www.jordanbpeterson.com/great-books/).
 
 [index]: {{ '#books' | absolute_url }}
 
-{% include bibliography.md %}
-
 ---

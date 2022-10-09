@@ -47,5 +47,3 @@ the following links will be useful:
 [« Zurück zur Übersicht][index]
 
 [index]: {{ '#articles' | absolute_url }}
-
-{% include bibliography.md %}

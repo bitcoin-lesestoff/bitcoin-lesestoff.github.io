@@ -6,9 +6,9 @@ description: Eine ausgewählte Selektion von deutschsprachigen Artikeln, Bücher
 ---
 
 **Kurz und Knapp:** Lese zumindest den [Den Bitcoin Standard][bitcoin-standard]
-und [Das Bullishe Argument für Bitcoin][bullish-case].
+und [Das Bullische Argument für Bitcoin][bullish-case].
 
-[the-bitcoin-standard]: {{ '/books/der-bitcoin-standard' | absolute_url }}
+[bitcoin-standard]: {{ '/books/der-bitcoin-standard' | absolute_url }}
 [bullish-case]: {{ '/articles/dasbullische-argumentfr-bitcoin' | absolute_url }}
 
 ---
@@ -110,6 +110,3 @@ Sie wird von verschiedenen Bitcoinern freiwillig aktualisiert und gepflegt.
 Falls Sie Verbesserungsvorschläge haben, fügen Sie diese bitte [per
 GitHub](https://github.com/bitcoin-resources-de/bitcoin-resources-de.github.io/issues)
 hinzu. Danke!
-
-
-{% include bibliography.md %}

@@ -34,5 +34,3 @@ Es folgt eine Auswahl von besonders lesenswerten Artikeln.
 [« Zurück zur Übersicht][index]
 
 [index]: {{ '#articles' | absolute_url }}
-
-{% include bibliography.md %}
