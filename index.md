@@ -14,14 +14,14 @@ und [Das Bullishe Argument für Bitcoin][bullish-case].
 
 ---
 
-## Essentials
+## Grundlagen
 
 Um Bitcoin zu verstehen, wird man wohl nicht drum rum kommen ein oder zwei
 Bücher über Bitcoin zu lesen. Die Folgenden gelten als besonders lesenswert:
 
 {% include books.html category='essentials' %}
 
-[View all books »][books]
+[Alle Bücher ansehen »][books]
 
 Es ist auch ratsam das originale "Whitepaper" zu lesen, welches Satoshi verfasst
 hat:
