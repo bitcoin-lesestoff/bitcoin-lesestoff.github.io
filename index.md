@@ -62,14 +62,14 @@ Find answers to common questions in the [FAQ][faq].
 
 ---
 
-## Books
+## Bücher
 
 {% include books.html category='non-technical' %}
 
-Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
+Kategorien: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
 
-[View book wall »][books-wall] \\
-[View all books »][books]
+["Bücher-Wand" ansehen »][books-wall] \\
+[Alle Bücher ansehen »][books]
 
 [Economics]: {{ '/books/#economics' | absolute_url }}
 [Money]: {{ '/books/#money' | absolute_url }}
@@ -82,11 +82,11 @@ Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
 
 ---
 
-## Articles
+## Artikel
 
 {% include articles_starred.html %}
 
-[View all articles »][articles]
+[Alle Artikel ansehen »][articles]
 
 [articles]: {{ '/articles' | absolute_url }}
 
@@ -94,11 +94,11 @@ Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
 
 ## Podcasts
 
-The following podcasts are among the best in the space:
+Die folgenden Podcasts werden im deutschsprachigen Raum oft empfohlen:
 
 {% include podcasts.html tier="1" %}
 
-[View all podcasts »][podcasts]
+[Alle Podcasts ansehen »][podcasts]
 
 [podcasts]: {{ '/podcasts' | absolute_url }}
 
