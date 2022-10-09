@@ -6,41 +6,34 @@ description: FAQ - Frequently Asked Questions
 ---
 
 
-### Is now a good time to buy bitcoin?
+### Ist jetzt ein guter Zeitpunkt, um Bitcoin zu kaufen?
 
-Yes. The best time to buy bitcoin was ten years ago. The second best
-time is now.
+Ja. Der beste Zeitpunkt um Bitoin zu kaufen war vor zehn Jahren. Der zweitbeste
+Zeitpunkt ist jetzt.
 
--   [Dear Family, Dear
-    Friends](https://dergigi.com/2020/04/27/dear-family-dear-friends/)
+-   [Liebe Familie, liebe Freunde](https://aprycot.media/blog/liebe-familie-liebe-freunde/)
 -   [It\'s Never Too Late to Invest in Bitcoin If You Understand
     It](https://medium.com/the-ascent/i-discovered-its-never-too-late-to-invest-in-bitcoin-if-you-understand-it-d0848141144b) 
 
-### Am I too late?
+### Bin ich zu spät?
 
-No. Everyone thinks that they \"[missed the
-bus](https://bitcoin-resources.com/assets/images/missed-the-bus.jpg).\"
+Nein. Jeder denkt, dass er den \"[Bus verpasst hat](https://bitcoin-resources.com/assets/images/missed-the-bus.jpg).\"
 
-It is never too late to adopt electricity. It is never too late to adopt
-the internet. It is never too late to adopt the [Bitcoin
-Standard](https://bitcoin-resources.com/books/the-bitcoin-standard).
+Es ist nie zu spät, Strom zu nutzen. Es ist nie zu spät, das Internet zu nutzen. Es ist nie zu spät, den [Bitcoin
+Standard](https://bitcoinlesestoff.de/books/der-bitcoin-standard) zu adaptieren.
 
 -   [Am I Too Late for
     Bitcoin?](https://www.swanbitcoin.com/am-i-too-late-for-bitcoin/)
--   [Lesson 21: Metaphors for Bitcoin\'s
-    Future](https://21lessons.com/21/)
+-   [Lektion 21: Metaphern für Bitcoins Zukunft](https://www.blocktrainer.de/uebersetzungen/bitcoin-21-lektionen/lektion-21/)
 
-### Are any other coins worth exploring?
+### Sind andere Kryptowährungen eine Erkundung wert?
 
-Only if you want to learn the lessons of [sound
-money](https://21lessons.com/14/) the hard way.
+Nur wenn Sie die Lektionen von [solidem Geld](https://www.blocktrainer.de/uebersetzungen/bitcoin-21-lektionen/lektion-14/) auf die harte Tour lernen wollen.
 
--   [Shelling Out: The Origins of
-    Money](https://nakamotoinstitute.org/shelling-out/)
--   [The Bullish Case for
-    Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+-   [Shelling Out – Die Ursprünge des Geldes](https://aprycot.media/blog/shelling-out-die-urspruenge-des-geldes/)
+-   [Das bullische Argument für Bitcoin](https://medium.com/aprycotmedia/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727)
 
-### ...but isn't Bitcoin too slow?
+### ...aber ist Bitcoin nicht zu langsam?
 
 No. Bitcoin travels at the speed of light, just like all information. In terms
 of final settlement, the important metric to look at is the settlement
@@ -54,15 +47,14 @@ Bitcoin absolutely dominates in terms of hashrate, having its hands on virtually
 [pow]: https://dergigi.com/pow
 [^hashrate]: Hashrate comparison chart: [https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y](https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y)
 
-### Where do I buy bitcoin?
+### Wo kann ich Bitcoin kaufen?
 
-Good question. It depends on where you are in the world and what kind of
-risks and privacy tradeoffs you are willing to accept.
+Gute Frage. Das hängt davon ab, an welchem Ort Du auf der Welt bist und welche Risiken und Kompromisse Du in Bezug auf die Privatsphäre einzugehen bereit bist.
 
 -   [Get Bitcoin](https://bitcoin-only.com/get-bitcoin)
 -   [Start Using Bitcoin](https://bitcoin-intro.com/)
 
-### Is Bitcoin bad for the environment?
+### Ist Bitcoin schlecht für die Umwelt?
 
 Bitcoin is the [holy grail for power
 grids](https://www.seetee.io/podcast/S2E10/shaun-connell-bitcoin-mining-is-the-holy-grail-for-power-grids/)
@@ -73,63 +65,58 @@ abundant energy.
 
 [^aepstein]: Alex Epstein, [2014](https://amzn.to/3awXfEL) & [2022](https://amzn.to/3NViVrB)
 
--   [Bitcoin Does Not Waste
-    Energy](https://unchained-capital.com/blog/bitcoin-does-not-waste-energy/)
--   [The Last Word on Bitcoin\'s Energy
-    Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+-   [Bitcoin ist keine Energieverschwendung](https://aprycot.media/blog/bitcoin-ist-keine-energieverschwendung/)
+-   [Das letzte Wort zu Bitcoins Energieverbrauch](https://aprycot.media/blog/das-letzte-wort-zu-bitcoins-energieverbrauch/)
 
-### Is Bitcoin used by criminals?
+### Wird Bitcoin von Kriminellen benutzt?
 
-Yes. All tools are. As of 2020, [around
-0.34%](https://blog.chainalysis.com/reports/2021-crypto-crime-report-intro-ransomware-scams-darknet-markets) of
-use is linked to criminal activity. This is lower than the
-estimated [2-5%](https://www.unodc.org/unodc/en/money-laundering/overview.html) of
-the fiat banking system with their custom-made [teller
-windows](https://www.reuters.com/article/us-hsbc-probe-idUSBRE8BA05M20121212).
+Ja. Jegliche Mittel und Methoden werden von Kriminellen genutzt. Ab 2020 werden [ungefähr
+0.34%](https://blog.chainalysis.com/reports/2021-crypto-crime-report-intro-ransomware-scams-darknet-markets) der
+Nutzung mit kriminellen Aktivitäten in Verbindung gebracht. Dies ist niedriger als die
+geschätzten [2-5%](https://www.unodc.org/unodc/en/money-laundering/overview.html) des
+des Fiat-Bankensystems mit seinen speziell angefertigten [Kassenschalter](https://www.reuters.com/article/us-hsbc-probe-idUSBRE8BA05M20121212).
 
 -   [Chainalysis 2021 Crime
     Report](https://blog.chainalysis.com/reports/2021-crypto-crime-report-intro-ransomware-scams-darknet-markets)
 -   [Bitcoin is Not for
     Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
 
-### What wallet should I use?
+### Welche Wallet sollte ich verwenden?
 
-The most important thing to learn is that holding your own keys is
-paramount. After that, it depends.
+Das Wichtigste, was Du lernen musst, ist, dass der Besitz Deiner eigenen Keys
+von größter Bedeutung ist. 
 
 -   [Setting Up Your First Bitcoin Mobile
     Wallet](https://www.citadel21.com/not-your-keys-not-your-bitcoin)
 -   [Bitcoin Wallet Guide](https://bitcoiner.guide/wallet/)
 
-### How do I run a node?
+### Wie betreibe ich eine Node?
 
-Short answer: download [Bitcoin
-Core](https://bitcoin.org/en/bitcoin-core/) and run it. Long answer: it depends on what you want to do with your node.
+Kurze Antwort: Lade [Bitcoin
+Core](https://bitcoin.org/de/download) runter und starte es. Lange Antwort: Das hängt davon ab, was Du mit Deiner Node machen willst.
 
 -   [Why Run A Full
     Node?](https://armantheparman.com/why-should-you-run-your-own-bitcoin-node/)
 -   [Bitcoiner Node Guide](https://bitcoiner.guide/node/)
 
-### Are all bitcoiners crazy?
+### Sind alle Bitcoiner verrückt?
 
-Maybe. However, more and more reasonable people and CEOs are starting to
-see the value of bitcoin.
+Vielleicht. Aber immer mehr vernünftige Menschen und CEOs beginnen, den Wert von Bitcoin zu erkennen.
 
 -   [Stone Ridge 2020 Shareholder
     Letter](https://www.microstrategy.com/en/bitcoin/documents/stone-ridge-2020-shareholder-letter)
 -   [Seetee 2021 Shareholder
     Letter](https://www.microstrategy.com/en/bitcoin/documents/seetee-shareholder-letter)
 
-### Won\'t governments just ban it?
+### Würden die Regierungen es nicht einfach verbieten?
 
-Some will, some won\'t. In any case, [outlawing
-speech](https://21lessons.com/6/) is futile, as was the Prohibition.  The
-[implications](https://dergigi.com/law) of an outright ban are ridiculous.
-Bitcoin is equivalent to [free speech](https://dergigi.com/speech).
+Manche werden es tun, manche nicht. In jedem Fall ist [das Verbot von
+Sprache](https://www.blocktrainer.de/uebersetzungen/bitcoin-21-lektionen/lektion-6/) zwecklos, genau wie die Prohibition.  Die
+[Konsequenzen](https://aprycot.media/blog/konsequenzen-bitcoin-verbot/) eines totalen Verbots sind lächerlich.
+Bitcoin ist gleichbedeutend mit der [freien Meinungsäußerung](https://aprycot.media/blog/unveraeusserliche-eigentumsrechte-recht-sprache-geld-und-moral-von-bitcoin/).
 
 -   [Can Governments Stop
     Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
--   [Bitcoin Cannot be
-    Banned](https://unchained-capital.com/blog/bitcoin-cannot-be-banned/)
+-   [Bitcoin kann nicht verboten werden](https://aprycot.media/blog/bitcoin-kann-nicht-verboten-werden/)
 
 ---
