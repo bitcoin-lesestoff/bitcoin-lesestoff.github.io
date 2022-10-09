@@ -117,14 +117,15 @@ are many excellent curations and guides by other bitcoiners, such as:
 
 ---
 
-## About these Resources
+## Über diese Seite
 
-The resources listed above are but a small selection which was particularly
-influential in [my thinking][dergigi]. A sincere *thank you* to all the people
-who shared their thoughts and insights, past and present. I have learned so
-much, and for that, I will be eternally grateful.
+Diese Seite ist ein Partnerprojekt und die deutsche Übersetzung von
+[bitcoin-resources.com](https://bitcoin-resources.com/).
+Sie wird von verschiedenen Bitcoinern freiwillig aktualisiert und gepflegt.
 
-If you have suggestions for content or improvements, feel free to open issues
-or PRs on [GitHub][issues] or reach out to me.
+Falls Sie Verbesserungsvorschläge haben, fügen Sie diese bitte [per
+GitHub](https://github.com/bitcoin-resources-de/bitcoin-resources-de.github.io/issues)
+hinzu. Danke!
+
 
 {% include bibliography.md %}
