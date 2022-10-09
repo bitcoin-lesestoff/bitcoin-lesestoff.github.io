@@ -18,17 +18,6 @@ Es folgt eine Auswahl von besonders lesenswerten Artikeln.
 
 ---
 
-## Artikelserien
-
-<ul class="articles">
-{% for s in site.series %}
-  <li><a href="{{ s.url }}">{{ s.title }}</a>
-  by {{ s.author }}</li>
-{% endfor %}
-</ul>
-
----
-
 ## Einzelne Artikel
 
 {% assign sorted_articles = site.articles | sort: 'date' %}
