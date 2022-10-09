@@ -1,6 +1,6 @@
 ---
 layout: resources
-title: Deutschsprachige Bitcoin Ressourcen
+title: Bitcoin Lesestoff
 image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Eine ausgewählte Selektion von deutschsprachigen Artikeln, Büchern, Podcasts, und mehr!
 ---
