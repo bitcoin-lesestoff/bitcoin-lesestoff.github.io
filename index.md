@@ -7,43 +7,28 @@ redirect_from: resources
 ---
 
 **Kurz und Knapp:** Lese zumindest den [Den Bitcoin Standard][bitcoin-standard]
-und [Das Bullishe Argument für Bitcoin][bullish-case-book].
+und [Das Bullishe Argument für Bitcoin][bullish-case].
+
+[the-bitcoin-standard]: {{ '/books/der-bitcoin-standard' | absolute_url }}
+[bullish-case]: {{ '/articles/dasbullische-argumentfr-bitcoin' | absolute_url }}
 
 ---
 
 ## Essentials
 
-To get a grasp on Bitcoin you will have to read a book or two.  If you only want
-to read one book, most people will recommend Saifedean's **[The Bitcoin
-Standard][the-bitcoin-standard]**, and for good reason. Bitcoin is money, so
-understanding [The Ethics of Money Production][the-ethics-of-money-production]
-is paramount to understanding what Bitcoin is about. If you need a crash-course
-in economics, read [Economics in One Lesson][economics-in-one-lesson] by Henry
-Hazlitt.
-
-[economics-in-one-lesson]: {{ '/books/economics-in-one-lesson' | absolute_url }}
-[the-bitcoin-standard]: {{ '/books/the-bitcoin-standard' | absolute_url }}
-[the-ethics-of-money-production]: {{ '/books/the-ethics-of-money-production' | absolute_url }}
-[bullish-case-book]: {{ '/books/the-bullish-case-for-bitcoin' | absolute_url }}
+Um Bitcoin zu verstehen, wird man wohl nicht drum rum kommen ein oder zwei
+Bücher über Bitcoin zu lesen. Die Folgenden gelten als besonders lesenswert:
 
 {% include books.html category='essentials' %}
 
 [View all books »][books]
 
-If you prefer a shorter introduction, read and listen to the following:
+Es ist auch ratsam das originale "Whitepaper" zu lesen, welches Satoshi verfasst
+hat:
 
-- [The Bullish Case for Bitcoin][bullish-case-book] by Vijay Boyapati
-- [The Stories We Tell About Money][aantonop-stories] by Andreas Antonopoulos
+- [Bitcoin: Ein elektronisches Peer-to-Peer Cash System][bitcoin-whitepaper-de] von Satoshi Nakamoto
 
-Further, everyone who is serious about trying to understand Bitcoin should start
-at the beginning, and read -- or at least skim -- the 8 pages which gave birth
-to Bitcoin:
-
-- [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
-
-Find answers to common questions in the [FAQ][faq].
-
-[faq]: {{ '/faq' }}
+[bitcoin-whitepaper-de]: https://bitcoin.org/files/bitcoin-paper/bitcoin_de.pdf
 
 ---
 
