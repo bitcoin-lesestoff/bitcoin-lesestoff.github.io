@@ -2,15 +2,15 @@
 layout: page-article
 author: Gigi
 title: Bitcoin ist Zeit
-link: https://dergigi.com/2021/01/14/bitcoin-is-time/
-category: 
-date: Jan 14, 2021
+link: https://blog.karlklawatsch.com/bitcoin/bitcoin-ist-zeit/
+category: Through the Looking Glass
+date: 1111-11-11
 lesson: 
-audio: https://anchor.fm/thecryptoconomy/episodes/Read_503---Bitcoin-is-Time-DerGigi-erk2ss
+audio: https://pod.link/1611020042/episode/f83a997e3352464bb5262467c7cf3089
 audio2: 
 audio3: 
 star: TRUE
-archive: https://archive.ph/M7YOx
+archive: https://archive.ph/OL2HF
 series: 
 seriesnr: 
 ---
