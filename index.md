@@ -64,10 +64,6 @@ Find answers to common questions in the [FAQ][faq].
 
 ## Books
 
-Books about Bitcoin which can be read by anyone, no special background knowledge
-or education required. As mentioned above, [The Bitcoin Standard][the-bitcoin-standard]
-is required reading for anyone interested in Bitcoin.
-
 {% include books.html category='non-technical' %}
 
 Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
@@ -88,16 +84,6 @@ Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
 
 ## Articles
 
-Many amazing articles have been written about Bitcoin. Trying to
-link to all of them is futile. The following is an effort to highlight
-at least some of them. For a more comprehensive list of resources please
-refer to the literature listed at the [Satoshi Nakamoto Institute][sni] and the
-selection of articles read by [Bitcoin Audible][guy-episodes].
-
-One of the best articles to read if you are new to Bitcoin is [The Bullish Case
-for Bitcoin][bullish-case], which outlines why there are very good reasons to be
-optimistic about Bitcoin's future.
-
 {% include articles_starred.html %}
 
 [View all articles »][articles]
@@ -108,27 +94,17 @@ optimistic about Bitcoin's future.
 
 ## Podcasts
 
-One of the best ways to educate yourself on Bitcoin is by listening to the
-smartest people in the space. Luckily, we are living in the golden age of
-podcasts, and many great conversations are "open source" so to speak.
-
 The following podcasts are among the best in the space:
 
 {% include podcasts.html tier="1" %}
 
-[View selected podcast episodes »][selected-episodes] \\
 [View all podcasts »][podcasts]
 
-### Selected Podcast Episodes
-
-You can find a list of selected podcast episodes [here][selected-episodes].
-
 [podcasts]: {{ '/podcasts' | absolute_url }}
-[selected-episodes]: {{ '/podcasts#selected-podcast-episodes' | absolute_url }}
 
 ---
 
-## Further Resources
+## Weitere Quellen
 
 The more rabbit holes, the better! Don't rely on this resource page alone. There
 are many excellent curations and guides by other bitcoiners, such as:
