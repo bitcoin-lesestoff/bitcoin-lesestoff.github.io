@@ -17,7 +17,7 @@ Zeitpunkt ist jetzt.
 
 ### Bin ich zu spät?
 
-Nein. Jeder denkt, dass er den \"[Bus verpasst hat](https://bitcoin-resources.com/assets/images/missed-the-bus.jpg).\"
+Nein. Jeder denkt, dass er den \"[Bus verpasst hat](https://bitcoin-resources.com/assets/images/missed-the-bus.jpg)\".
 
 Es ist nie zu spät, Strom zu nutzen. Es ist nie zu spät, das Internet zu nutzen. Es ist nie zu spät, den [Bitcoin
 Standard](https://bitcoinlesestoff.de/books/der-bitcoin-standard) zu adaptieren.
@@ -28,7 +28,7 @@ Standard](https://bitcoinlesestoff.de/books/der-bitcoin-standard) zu adaptieren.
 
 ### Sind andere Kryptowährungen eine Erkundung wert?
 
-Nur wenn Sie die Lektionen von [solidem Geld](https://www.blocktrainer.de/uebersetzungen/bitcoin-21-lektionen/lektion-14/) auf die harte Tour lernen wollen.
+Nur wenn Du die Lektionen von [solidem Geld](https://www.blocktrainer.de/uebersetzungen/bitcoin-21-lektionen/lektion-14/) auf die harte Tour lernen willst.
 
 -   [Shelling Out – Die Ursprünge des Geldes](https://aprycot.media/blog/shelling-out-die-urspruenge-des-geldes/)
 -   [Das bullische Argument für Bitcoin](https://medium.com/aprycotmedia/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727)
@@ -49,7 +49,7 @@ Bitcoin absolutely dominates in terms of hashrate, having its hands on virtually
 
 ### Wo kann ich Bitcoin kaufen?
 
-Gute Frage. Das hängt davon ab, an welchem Ort Du auf der Welt bist und welche Risiken und Kompromisse Du in Bezug auf die Privatsphäre einzugehen bereit bist.
+Gute Frage. Das hängt davon ab, an welchem Ort Du auf der Welt bist und welche Risiken und Kompromisse Du bereit bist einzugehen in Bezug auf die Privatsphäre.
 
 -   [Get Bitcoin](https://bitcoin-only.com/get-bitcoin)
 -   [Start Using Bitcoin](https://bitcoin-intro.com/)
@@ -70,9 +70,9 @@ abundant energy.
 
 ### Wird Bitcoin von Kriminellen benutzt?
 
-Ja. Jegliche Mittel und Methoden werden von Kriminellen genutzt. Ab 2020 werden [ungefähr
+Ja. Alles Brauchbare wird von Kriminellen genutzt. Ab 2020 werden [ungefähr
 0.34%](https://blog.chainalysis.com/reports/2021-crypto-crime-report-intro-ransomware-scams-darknet-markets) der
-Nutzung mit kriminellen Aktivitäten in Verbindung gebracht. Dies ist niedriger als die
+Nutzung von Bitcoin mit kriminellen Aktivitäten in Verbindung gebracht. Dies ist niedriger als die
 geschätzten [2-5%](https://www.unodc.org/unodc/en/money-laundering/overview.html) des
 des Fiat-Bankensystems mit seinen speziell angefertigten [Kassenschalter](https://www.reuters.com/article/us-hsbc-probe-idUSBRE8BA05M20121212).
 
