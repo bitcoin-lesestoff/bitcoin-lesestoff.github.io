@@ -2,7 +2,7 @@
 layout: page-books
 title: Layered Money
 subtitle: Von Gold und US-Dollar zu Bitcoin und digitalen Zentralbankwährungen
-essential: 
+essential: true
 categories: ['non-technical']
 authors: ['Nik Bhatia']
 authors_twitter: ['https://twitter.com/timevalueofbtc']

@@ -2,7 +2,7 @@
 layout: page-books
 title: Bitcoin Entdecken
 subtitle: Wie die Technologie hinter dem ersten knappen und dezentralisierten Geld funktioniert
-essential: 
+essential: true
 categories: ['non-technical']
 authors: ['Yan Pritzker']
 authors_twitter: ['https://twitter.com/skwp']

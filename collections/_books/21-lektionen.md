@@ -2,7 +2,7 @@
 layout: page-books
 title: 21 Lektionen
 subtitle: Meine Reise in den Bitcoin Kaninchenbau
-essential: 
+essential: true
 categories: ['non-technical']
 authors: ['Gigi']
 authors_twitter: ['https://twitter.com/dergigi']
