@@ -1,6 +1,6 @@
 ---
 layout: page-books
-title: Der Fiat-Standard
+title: Der Fiat Standard
 subtitle: Das Schuldknechtschaftssystem als Alternative zur menschlichen Zivilisation
 essential: 
 categories: ['non-technical']

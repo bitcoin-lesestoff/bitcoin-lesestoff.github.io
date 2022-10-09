@@ -9,7 +9,7 @@ lesson:
 audio: 
 audio2: 
 audio3: 
-star: 
+star: TRUE
 archive: 
 series: 
 seriesnr: 

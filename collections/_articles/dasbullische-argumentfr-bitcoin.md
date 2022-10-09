@@ -9,7 +9,7 @@ lesson:
 audio: https://anchor.fm/bitcoin-bibliothek/episodes/05-KOMPLETT---Lesung-4---Das-Bullische-Argument-fr-Bitcoin-Vijay-Boyapati-e1fqjm8
 audio2: 
 audio3: 
-star: 
+star: TRUE
 archive: https://archive.ph/t0S1M
 series: 
 seriesnr: 
