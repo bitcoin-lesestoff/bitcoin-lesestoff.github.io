@@ -8,7 +8,7 @@ description: FAQ - Frequently Asked Questions
 
 ### Ist jetzt ein guter Zeitpunkt, um Bitcoin zu kaufen?
 
-Ja. Der beste Zeitpunkt um Bitoin zu kaufen war vor zehn Jahren. Der zweitbeste
+Ja. Der beste Zeitpunkt um Bitcoin zu kaufen war 2009. Der zweitbeste
 Zeitpunkt ist jetzt.
 
 -   [Liebe Familie, liebe Freunde](https://aprycot.media/blog/liebe-familie-liebe-freunde/)
