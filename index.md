@@ -2,8 +2,7 @@
 layout: resources
 title: Deutschsprachige Bitcoin Ressourcen
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Books, articles, podcasts, and other curated Bitcoin resources.
-redirect_from: resources
+description: Eine ausgewählte Selektion von deutschsprachigen Artikeln, Büchern, Podcasts, und mehr!
 ---
 
 **Kurz und Knapp:** Lese zumindest den [Den Bitcoin Standard][bitcoin-standard]
