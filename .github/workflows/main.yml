@@ -5,7 +5,7 @@ name: Update Resources
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '21 21 * * Sun'
+    - cron:  '21 21 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -42,6 +42,6 @@ jobs:
         pip3 install -r requirements.txt
         echo Updating all bitcoin resources from spreadsheet...
         ./update_all.sh
-        
+
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
