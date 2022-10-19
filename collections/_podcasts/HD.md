@@ -12,6 +12,6 @@ rss: ['https://honigdachs.podigee.io/feed/mp3']
 rank: 9
 twitter: https://twitter.com/HonigdachsPod
 youtube: 
-level: Intermediate
-tags: ['news', 'interviews']
+level: Advanced
+tags: ['roundtable', 'politics', 'privacy', 'drama']
 ---
