@@ -12,7 +12,7 @@ scope = ['https://spreadsheets.google.com/feeds',
 creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
 client = gspread.authorize(creds)
 
-books = client.open("German Bitcoin Resources (DE)").worksheet("Books")
+books = client.open("Bitcoin Lesestoff").worksheet("Books")
 
 NO_DATE = "1111-11-11"
 NO_AUTHOR_LINKS = ""

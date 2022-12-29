@@ -12,7 +12,7 @@ scope = ['https://spreadsheets.google.com/feeds',
 creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
 client = gspread.authorize(creds)
 
-articles = client.open("German Bitcoin Resources (DE)").worksheet("Curations")
+articles = client.open("Bitcoin Lesestoff").worksheet("Curations")
 
 for idx, row in enumerate(articles.get_all_values()):
     if row[0] == 'Title':
