@@ -1,8 +1,8 @@
 ---
 layout: page-article
-author: Gwern Branwen
-title: "Bitcoin ist “Schlechter ist Besser”"
-link: https://aprycot.media/blog/bitcoin-ist-schlechter-ist-besser/
+author: Parker Lewis
+title: "Bitcoin kann nicht kopiert werden"
+link: https://aprycot.media/blog/bitcoin-kann-nicht-kopiert-werden/
 category: Bitcoin's Uniqueness
 date: 1111-11-11
 lesson: 

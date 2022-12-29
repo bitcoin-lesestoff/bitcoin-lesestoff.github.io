@@ -1,9 +1,9 @@
 ---
 layout: page-article
 author: Gigi
-title: "Magisches Internet-Geld"
-link: https://aprycot.media/?p=92629
-category: Through the Looking Glass
+title: "Das Ei des Phönix"
+link: https://aprycot.media/blog/das-ei-des-phoenix/
+category: Bitcoin as a Living Organism
 date: 1111-11-11
 lesson: 
 audio: 

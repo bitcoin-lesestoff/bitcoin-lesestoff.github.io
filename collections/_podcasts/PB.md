@@ -12,6 +12,6 @@ rss: ['https://anchor.fm/s/7c44f080/podcast/rss']
 rank: 12
 twitter: https://twitter.com/jesse_hodl
 youtube: 
-level: Specialized
+level: Intermediate
 tags: ['mining']
 ---

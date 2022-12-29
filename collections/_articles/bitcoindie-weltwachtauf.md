@@ -1,9 +1,9 @@
 ---
 layout: page-article
 author: Gigi
-title: "Magisches Internet-Geld"
-link: https://aprycot.media/?p=92629
-category: Through the Looking Glass
+title: "Bitcoin - die Welt wacht auf"
+link: https://aprycot.media/blog/bitcoin-die-welt-wacht-auf/
+category: Bitcoin's Identity
 date: 1111-11-11
 lesson: 
 audio: 

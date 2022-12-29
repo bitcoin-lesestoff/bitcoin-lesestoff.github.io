@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Robert Breedlove
-title: Bitcoin ist Hoffnung
+title: "Bitcoin ist Hoffnung"
 link: https://aprycot.media/blog/bitcoin-ist-hoffnung/
 category: 
 date: 1111-11-11

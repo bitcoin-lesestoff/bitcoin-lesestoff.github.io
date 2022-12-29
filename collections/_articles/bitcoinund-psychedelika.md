@@ -1,8 +1,8 @@
 ---
 layout: page-article
-author: Dan Held
-title: "Bitcoins Anpflanzung"
-link: https://medium.com/aprycotmedia/bitcoins-anpflanzung-71ea533b89c5
+author: Fractalencrypt
+title: "Bitcoin und Psychedelika"
+link: https://europeanbitcoiners.com/bitcoin-und-psychdelika/
 category: 
 date: 1111-11-11
 lesson: 

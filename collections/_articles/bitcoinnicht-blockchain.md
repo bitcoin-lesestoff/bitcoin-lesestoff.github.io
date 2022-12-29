@@ -1,8 +1,8 @@
 ---
 layout: page-article
-author: Gwern Branwen
-title: "Bitcoin ist “Schlechter ist Besser”"
-link: https://aprycot.media/blog/bitcoin-ist-schlechter-ist-besser/
+author: Parker Lewis
+title: "Bitcoin, nicht Blockchain"
+link: https://aprycot.media/blog/bitcoin-nicht-blockchain/
 category: Bitcoin's Uniqueness
 date: 1111-11-11
 lesson: 

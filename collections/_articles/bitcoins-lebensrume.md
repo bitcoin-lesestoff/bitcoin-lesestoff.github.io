@@ -1,9 +1,9 @@
 ---
 layout: page-article
 author: Gigi
-title: "Magisches Internet-Geld"
-link: https://aprycot.media/?p=92629
-category: Through the Looking Glass
+title: "Bitcoins Lebensräume"
+link: https://aprycot.media/blog/bitcoins-lebensraeume/
+category: Bitcoin as a Living Organism
 date: 1111-11-11
 lesson: 
 audio: 

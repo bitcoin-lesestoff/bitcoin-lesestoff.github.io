@@ -1,8 +1,8 @@
 ---
 layout: page-article
-author: Gwern Branwen
-title: "Bitcoin ist “Schlechter ist Besser”"
-link: https://aprycot.media/blog/bitcoin-ist-schlechter-ist-besser/
+author: Pascal Huegli
+title: "Die makellose Schöpfung von Bitcoin"
+link: https://europeanbitcoiners.com/die-makellose-schoepfung-von-bitcoin/
 category: Bitcoin's Uniqueness
 date: 1111-11-11
 lesson: 
