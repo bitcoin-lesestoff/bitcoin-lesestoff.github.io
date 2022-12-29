@@ -12,7 +12,7 @@ scope = ['https://spreadsheets.google.com/feeds',
 creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
 client = gspread.authorize(creds)
 
-articles = client.open("German Bitcoin Resources (DE)").worksheet("Articles")
+articles = client.open("Bitcoin Lesestoff").worksheet("Articles")
 
 NO_DATE = "1111-11-11"
 NO_AUTHOR_LINKS = ""
@@ -43,7 +43,7 @@ for row in articles.get_all_values():
                 f"---\n"
                 f"layout: page-article\n"
                 f"author: {article_author}\n"
-                f"title: {article_title}\n"
+                f"title: \"{article_title}\"\n"
                 f"link: {article_link}\n"
                 f"category: {article_category}\n"
                 f"date: {article_date}\n"

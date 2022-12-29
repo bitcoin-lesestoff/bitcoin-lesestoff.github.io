@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Gigi
-title: Bitcoin ist Zeit
+title: "Bitcoin ist Zeit"
 link: https://blog.karlklawatsch.com/bitcoin/bitcoin-ist-zeit/
 category: Through the Looking Glass
 date: 1111-11-11
