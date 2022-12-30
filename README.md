@@ -30,7 +30,7 @@ Möglicherweise musst du `gulp` global installieren, was du mit `npm install --g
 
 ### Support
 
-Du kannst das Projekt teilen, [beitragen](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), der [Telegram Gruppe](https://t.me/BitcoinRessourcenDe) beitreten, oder direkt [spenden](https://bitcoinlesestoff.de/donate/).
+Du kannst das Projekt teilen, [beitragen](https://github.com/bitcoin-lesestoff/bitcoin-lesestoff.github.io/blob/master/CONTRIBUTING.md), der [Telegram Gruppe](https://t.me/BitcoinRessourcenDe) beitreten, oder direkt [spenden](https://bitcoinlesestoff.de/donate/).
 
 
 ---
