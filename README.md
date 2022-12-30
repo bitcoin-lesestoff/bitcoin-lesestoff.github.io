@@ -6,7 +6,7 @@ Eine ausgewählte Selektion von deutschsprachigen Artikeln, Büchern, Podcasts, 
 
 Wenn du Tippfehler, grammatikalische Fehler, kaputte Links oder andere Fehler oder Probleme findest, weise bitte [mich](https://dergigi.com/contact/) darauf hin oder erstelle einen Pull-Request, um sie zu korrigieren.
 
-Weitere Informationen zum Beitrag findest du in den [Beitragsrichtlinien] (https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md).
+Weitere Informationen zum Beitrag findest du in den [Beitragsrichtlinien](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md).
 
 ### Die Website lokal erstellen
 
@@ -33,6 +33,4 @@ Du kannst [dem Projekt](https://twitter.com/BtcResources) auf Twitter folgen, da
 
 ---
 
-Erstellt mit 🧡 von [Gigi] (https://dergigi.com/).
-
-[![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
+Erstellt mit 🧡 von [Gigi](https://dergigi.com/)
