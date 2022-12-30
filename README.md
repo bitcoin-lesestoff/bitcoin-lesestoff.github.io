@@ -8,7 +8,7 @@ Live auf [https://bitcoinlesestoff.de/](https://bitcoinlesestoff.de/)
 
 Wenn du Tippfehler, grammatikalische Fehler, kaputte Links oder andere Fehler oder Probleme findest, weise bitte in der [Telegram Gruppe](https://t.me/BitcoinRessourcenDe) darauf hin oder erstelle einen Pull-Request, um sie zu korrigieren.
 
-Weitere Informationen findest du in den [CONTRIBUTING](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md) Richtlinien.
+Weitere Informationen findest du in den [CONTRIBUTING](https://github.com/bitcoin-lesestoff/bitcoin-lesestoff.github.io/blob/master/CONTRIBUTING.md) Richtlinien.
 
 ### Die Website lokal erstellen
 
