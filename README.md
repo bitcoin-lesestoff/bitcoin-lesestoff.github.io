@@ -1,12 +1,14 @@
-# Bitcoin Ressourcen (DE)
+# Bitcoin Lesestoff
 
 Eine ausgewählte Selektion von deutschsprachigen Artikeln, Büchern, Podcasts, und mehr!
 
+Live auf [https://bitcoinlesestoff.de/](https://bitcoinlesestoff.de/)
+
 ### Beitragen
 
-Wenn du Tippfehler, grammatikalische Fehler, kaputte Links oder andere Fehler oder Probleme findest, weise bitte [mich](https://dergigi.com/contact/) darauf hin oder erstelle einen Pull-Request, um sie zu korrigieren.
+Wenn du Tippfehler, grammatikalische Fehler, kaputte Links oder andere Fehler oder Probleme findest, weise bitte in der [Telegram Gruppe](https://t.me/BitcoinRessourcenDe) darauf hin oder erstelle einen Pull-Request, um sie zu korrigieren.
 
-Weitere Informationen zum Beitrag findest du in den [Beitragsrichtlinien](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md).
+Weitere Informationen findest du in den [CONTRIBUTING](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md) Richtlinien.
 
 ### Die Website lokal erstellen
 
@@ -28,7 +30,7 @@ Möglicherweise musst du `gulp` global installieren, was du mit `npm install --g
 
 ### Support
 
-Du kannst [dem Projekt](https://twitter.com/BtcResources) auf Twitter folgen, das Projekt teilen, [beitragen](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), [spenden](https://bitcoin-resources.com/donate/), oder [mich](https://dergigi.com/support/) direkt unterstützen.
+Du kannst das Projekt teilen, [beitragen](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), der [Telegram Gruppe](https://t.me/BitcoinRessourcenDe) beitreten, oder direkt [spenden](https://bitcoinlesestoff.de/donate/).
 
 
 ---
